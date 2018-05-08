@@ -15,7 +15,7 @@
  */
 define( 'WPINC', 'wp-includes' );
 
-// Include files required for initialization.
+// Include files required for initialization.s
 require( ABSPATH . WPINC . '/load.php' );
 require( ABSPATH . WPINC . '/default-constants.php' );
 require_once( ABSPATH . WPINC . '/plugin.php' );
