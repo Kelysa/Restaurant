@@ -37,7 +37,7 @@ $user = wp_get_current_user();
 /**
  * Perform other actions when comment cookies are set.
  *
- * @since 3.4.0
+ * @since 3.4.0 s
  *
  * @param WP_Comment $comment Comment object.
  * @param WP_User    $user    User object. The user may not exist.
